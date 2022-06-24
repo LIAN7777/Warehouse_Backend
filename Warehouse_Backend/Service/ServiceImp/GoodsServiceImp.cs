@@ -64,6 +64,7 @@ namespace Warehouse_Backend.Service.ServiceImp
                 if (goods1 != null)
                 {
                     goods1.Name = goods.Name;
+                    goods1.Description = goods.Description;
                     context.SaveChanges();
                     return new Message() { message = "货物更新成功" };
                 }

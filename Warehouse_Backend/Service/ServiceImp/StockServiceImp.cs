@@ -25,7 +25,7 @@ namespace Warehouse_Backend.Service.ServiceImp
                 foreach(Stock i in stocks)
                 {
                     Goods goods = context.goods.Find(i.G_id);
-                    goodsVos.Add(new GoodsVo() { id = goods.Id, name = goods.Name, number = i.Number });
+                    goodsVos.Add(new GoodsVo() { id = goods.Id, name = goods.Name, number = i.Number, description = goods.Description });
                 }
                 return goodsVos;
             }

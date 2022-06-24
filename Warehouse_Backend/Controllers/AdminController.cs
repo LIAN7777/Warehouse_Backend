@@ -20,7 +20,7 @@ namespace Warehouse_Backend.Controllers
             adminService = adminService1;
         }
 
-        [HttpGet,Route("login")]
+        [HttpPost,Route("login")]
         public Admin Login(Admin admin)
         {
             return adminService.Login(admin);
