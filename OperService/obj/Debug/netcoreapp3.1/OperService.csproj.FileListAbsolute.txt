@@ -1,0 +1,10 @@
+C:\Users\22123\source\repos\Warehouse_Backend\OperService\bin\Debug\netcoreapp3.1\OperService.deps.json
+C:\Users\22123\source\repos\Warehouse_Backend\OperService\bin\Debug\netcoreapp3.1\OperService.dll
+C:\Users\22123\source\repos\Warehouse_Backend\OperService\bin\Debug\netcoreapp3.1\OperService.pdb
+C:\Users\22123\source\repos\Warehouse_Backend\OperService\obj\Debug\netcoreapp3.1\OperService.csproj.AssemblyReference.cache
+C:\Users\22123\source\repos\Warehouse_Backend\OperService\obj\Debug\netcoreapp3.1\OperService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22123\source\repos\Warehouse_Backend\OperService\obj\Debug\netcoreapp3.1\OperService.AssemblyInfoInputs.cache
+C:\Users\22123\source\repos\Warehouse_Backend\OperService\obj\Debug\netcoreapp3.1\OperService.AssemblyInfo.cs
+C:\Users\22123\source\repos\Warehouse_Backend\OperService\obj\Debug\netcoreapp3.1\OperService.csproj.CoreCompileInputs.cache
+C:\Users\22123\source\repos\Warehouse_Backend\OperService\obj\Debug\netcoreapp3.1\OperService.dll
+C:\Users\22123\source\repos\Warehouse_Backend\OperService\obj\Debug\netcoreapp3.1\OperService.pdb

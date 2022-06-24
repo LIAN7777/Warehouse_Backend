@@ -1,0 +1,7 @@
+﻿  pch.cpp
+C:\Users\22123\source\repos\Warehouse_Backend\Encode\pch.cpp(9,1): warning C4190: “Encrypt”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+C:\Users\22123\source\repos\Warehouse_Backend\Encode\pch.cpp(10,23): warning C4018: “<”: 有符号/无符号不匹配
+  dllmain.cpp
+    正在创建库 C:\Users\22123\source\repos\Warehouse_Backend\Debug\Encode.lib 和对象 C:\Users\22123\source\repos\Warehouse_Backend\Debug\Encode.exp
+  Encode.vcxproj -> C:\Users\22123\source\repos\Warehouse_Backend\Debug\Encode.dll

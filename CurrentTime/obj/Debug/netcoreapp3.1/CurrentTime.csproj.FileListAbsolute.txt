@@ -1,0 +1,10 @@
+C:\Users\22123\source\repos\Warehouse_Backend\CurrentTime\bin\Debug\netcoreapp3.1\CurrentTime.deps.json
+C:\Users\22123\source\repos\Warehouse_Backend\CurrentTime\bin\Debug\netcoreapp3.1\CurrentTime.dll
+C:\Users\22123\source\repos\Warehouse_Backend\CurrentTime\bin\Debug\netcoreapp3.1\CurrentTime.pdb
+C:\Users\22123\source\repos\Warehouse_Backend\CurrentTime\obj\Debug\netcoreapp3.1\CurrentTime.csproj.AssemblyReference.cache
+C:\Users\22123\source\repos\Warehouse_Backend\CurrentTime\obj\Debug\netcoreapp3.1\CurrentTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22123\source\repos\Warehouse_Backend\CurrentTime\obj\Debug\netcoreapp3.1\CurrentTime.AssemblyInfoInputs.cache
+C:\Users\22123\source\repos\Warehouse_Backend\CurrentTime\obj\Debug\netcoreapp3.1\CurrentTime.AssemblyInfo.cs
+C:\Users\22123\source\repos\Warehouse_Backend\CurrentTime\obj\Debug\netcoreapp3.1\CurrentTime.csproj.CoreCompileInputs.cache
+C:\Users\22123\source\repos\Warehouse_Backend\CurrentTime\obj\Debug\netcoreapp3.1\CurrentTime.dll
+C:\Users\22123\source\repos\Warehouse_Backend\CurrentTime\obj\Debug\netcoreapp3.1\CurrentTime.pdb

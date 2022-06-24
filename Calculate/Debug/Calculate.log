@@ -1,0 +1,6 @@
+﻿C:\Program Files\dotnet\sdk\6.0.203\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.Sdk.DefaultItems.targets(134,5): warning NETSDK1182: 不支持在 Visual Studio 2019 中以 .NET 6.0 为目标。
+  Calculate.cpp
+  .NETCoreApp,Version=v6.0.AssemblyAttributes.cpp
+  正在生成代码...
+  Calculate.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+  Calculate.vcxproj -> C:\Users\22123\source\repos\Warehouse_Backend\Debug\Calculate.dll

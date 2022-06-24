@@ -1,0 +1,4 @@
+C:\Users\22123\source\repos\Warehouse_Backend\Debug\Ijwhost.dll
+C:\Users\22123\source\repos\Warehouse_Backend\Debug\Calculate.deps.json
+C:\Users\22123\source\repos\Warehouse_Backend\Debug\Calculate.runtimeconfig.json
+C:\Users\22123\source\repos\Warehouse_Backend\Calculate\Debug\Calculate.genruntimeconfig.cache
